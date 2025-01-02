@@ -11,7 +11,7 @@ dépendances de symfony nécessaires.
 
 ```bash 
 $ git clone git@github.com:ORT-Project/MEKI-ORT-API.git
-$ cp .env-example .env
+$ cp .env-exemple .env
 $ composer require symfony/runtime 
 ```
 
